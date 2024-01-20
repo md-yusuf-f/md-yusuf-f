@@ -13,7 +13,7 @@ Software Developer
 ## Background
 
 - 💻 I specialize in Java, Spring Boot, Docker, and Git.
-- 🌐 Currently working at [Tata Consultancy Services (TCS)](https://www.tcs.com/) <img src="(https://companieslogo.com/img/orig/TCS.NS_BIG.D-0bca8a61.png?t=1631949260)" alt="TCS Logo" width="50"/>.
+- 🌐 Currently working at [Tata Consultancy Services (TCS)](https://www.tcs.com/).
 - 📚 Always eager to learn and expand my skill set.
 
 ## I Code In
