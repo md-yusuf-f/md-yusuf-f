@@ -31,10 +31,6 @@ Software Developer
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%230077B5.svg?&style=for-the-badge&logo=ChatGPT&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YusufSaf?theme=dark&font=Marcellus&ext=contest)
-
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-yusuf-f)](https://github.com/md-yusuf-f/github-readme-stats)
-
 Feel free to reach out! I'm always open to collaboration and new opportunities.
 
 
