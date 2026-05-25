@@ -1,40 +1,33 @@
-### Hi there 👋 it's me Mohammed Yusuf
+### Mohammed Yusuf · Software Engineer
 
-Software Developer
+> Java · Spring Boot · Azure · n8n · AI Tooling
 
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Java/Spring 
-- 💬 Ask me about Java/Spring
-- 📫 How to reach me:
-<br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusuf1799/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_saf7/)
-- 😄 Pronouns: Techie
+Software Engineer at **Tata Consultancy Services** — backend systems, cloud security, and automation.
 
-## Background
+**Microsoft Certified: Azure Security Engineer Associate**
 
-- 💻 I specialize in Java, Spring Boot, Docker, and Git.
-- 🌐 Currently working at [Tata Consultancy Services (TCS)](https://www.tcs.com/).
-- 📚 Always eager to learn and expand my skill set.
+---
 
-## I Code In
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+## What I Build
 
-## IDE and Tools I Used
+| Area | Stack |
+|------|-------|
+| Backend | Java 17, Spring Boot, Apache Kafka, REST APIs |
+| Cloud & Security | Azure, Jenkins, Docker, CI/CD pipelines |
+| Automation | n8n, Telegram bots, webhook integrations |
+| AI Tooling | Multi-agent CLI (Claude + Codex + Gemini) |
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%230077B5.svg?&style=for-the-badge&logo=ChatGPT&logoColor=white)
+---
 
-Feel free to reach out! I'm always open to collaboration and new opportunities.
+## Portfolio
 
+- [**portfolio**](https://md-yusuf-f.github.io/portfolio/) — Personal site
+- [**multi-agent**](https://github.com/md-yusuf-f/multi-agent) — 3-stage AI CLI: architect → parallel workers → synthesizer
+- [**n8n-webhook-templates**](https://github.com/md-yusuf-f/n8n-webhook-templates) — Production n8n workflows for lead capture and Telegram notifications
 
+---
 
+## Reach Me
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusuf1799/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedyusuf1799@gmail.com)
